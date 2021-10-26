@@ -17,7 +17,7 @@ In our Grading code it first takes the name of the user, the current grade they 
 
 ## Installing the Code
 
-To download this code, make sure you have the url copied from the GitHub page of the repository. Then go to your command terminal and access your desired directory where you want the code to exist. Then use the 'git clone' command followed by the url link you copied to install the software.
+To download this code, make sure you have the url copied from the GitHub page of the repository. Then go to your command terminal and access your desired directory where you want the code to exist. Then use the `git clone` command followed by the url link you copied to install the software.
 
 
 ## Running the Code (Usage Documentation)
@@ -33,7 +33,7 @@ Note that there are no percent signs accompanying the values, and 10% is represe
 
 ## Contributing to the Code
 
-If you wish to make changes on the code, fork the repository and edit the python file. When your work is complete, save it by using the 'git add .', 'git commit', and 'git push origin main' commands and then submit a pull request. We will then review your code and your contributions.
+If you wish to make changes on the code, fork the repository and edit the python file. When your work is complete, save it by using the `git add .`, `git commit`, and `git push origin main` commands and then submit a pull request. We will then review your code and your contributions.
 
 
 ## Code of Conduct
